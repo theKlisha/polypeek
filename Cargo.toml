@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/polypeek-core",
+    "crates/core",
+    "crates/polypeek-cli",
+]
+resolver = "2"
